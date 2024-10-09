@@ -3,4 +3,4 @@
     description: Runs scalafix on all scala files.
     entry: mill-scalafix.sh
     language: script
-		require_serial: true
+    require_serial: true
