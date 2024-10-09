@@ -1,0 +1,6 @@
+-   id: mill-scalafix
+    name: mill-scalafix
+    description: Runs scalafix on all scala files.
+    entry: mill-scalafix.sh
+    language: script
+		require_serial: true
